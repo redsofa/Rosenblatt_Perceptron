@@ -18,7 +18,7 @@ If not, please see <http://www.apache.org/licenses/>.
 */
 
 /*
-Implements a basic perceptron neural network call - Earliest network model proposed
+Implements a basic perceptron neural network - Earliest network model proposed
 by Rosenblatt in late 1950s.
 */
 package algo
